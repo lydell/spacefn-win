@@ -14,7 +14,7 @@ The simplest option is to download the compiled file spacefn-win.exe and run it.
 required.
 
 The other option is to install [AutoHotkey] 1.1.13.00+ (if you haven't already), download the whole
-project and runt the spacefn-win.ahk file using AutoHotkey. Use this option if you're already using
+project and run the spacefn-win.ahk file using AutoHotkey. Use this option if you're already using
 AutoHotkey or want to customize the layout.
 
 Either way, put a shortcut to spacefn-win.(ahk|exe) in the Autostart folder to activate the layout
@@ -56,4 +56,4 @@ License
 
 [AutoHotkey]:  http://autohotkey.com/
 [dual-config]: https://github.com/lydell/dual#configuration
-[SpaceFN]:     #
+[SpaceFN]:     http://geekhack.org/index.php?topic=51069.0

@@ -28,6 +28,7 @@ The script accepts any number of command line options of the form `option=value`
 options are available:
 
 - `swap_backtick_escape`: `true` or `false` (default)
+- `mode`: `ijkl` (default), `ijkl2`, `hjkl` or `wasd`
 - [`delay`, `timeout` and `doublePress`][dual-config]: Integer (advanced)
 
 Examples:

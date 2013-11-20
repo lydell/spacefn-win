@@ -1,8 +1,8 @@
 Overview
 ========
 
-spacefn-win is an implementation of the [SpaceFN] keyboard layout by spiceBar. It is an [AutoHotkey]
-script.
+spacefn-win is a Windows implementation of the [SpaceFN] keyboard layout by spiceBar. It is an
+[AutoHotkey] script.
 
 
 Installation
@@ -19,6 +19,15 @@ AutoHotkey or want to customize the layout.
 
 Either way, put a shortcut to spacefn-win.(ahk|exe) in the Autostart folder to activate the layout
 automatically when you log in to your computer. (It won't work in the login screen.)
+
+Download notes
+--------------
+
+The stand-alone exe file as well as a zip of the project can be found under [releases]. If you
+download the zip file, you must also download [dual], and put it in the Lib folder.
+
+git users might want to run `git clone https://github.com/lydell/spacefn-win.git` (to download the
+whole project), followed by `git submodule update` and `git submodule update` (to download dual).
 
 
 Command-line options
@@ -55,5 +64,7 @@ License
 
 
 [AutoHotkey]:  http://autohotkey.com/
+[dual]:        https://github.com/lydell/dual/releases
 [dual-config]: https://github.com/lydell/dual#configuration
+[releases]:    https://github.com/lydell/spacefn-win/releases
 [SpaceFN]:     http://geekhack.org/index.php?topic=51069.0

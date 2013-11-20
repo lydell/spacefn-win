@@ -1,7 +1,7 @@
 Changelog
 =========
 
-Version 0.2.0 (Unreleased)
+Version 0.2.0 (2013-11-20)
 --------------------------
 
 - Added: ijkl2, hjkl and wasd modes.

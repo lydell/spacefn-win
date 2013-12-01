@@ -1,6 +1,12 @@
 Changelog
 =========
 
+Version 0.2.1 (2013-12-01)
+--------------------------
+
+- Important update of dual. If you've modified the script and have had problems with any of the
+  #!^+<>*~$ characters, that problem might be resolved.
+
 Version 0.2.0 (2013-11-20)
 --------------------------
 

@@ -68,7 +68,7 @@ License
 [MIT Licensed](LICENSE)
 
 
-[AutoHotkey]:  http://autohotkey.com/
+[AutoHotkey]:  http://ahkscript.org/
 [dual]:        https://github.com/lydell/dual/releases
 [dual-config]: https://github.com/lydell/dual#configuration
 [releases]:    https://github.com/lydell/spacefn-win/releases

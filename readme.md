@@ -31,7 +31,7 @@ download the zip file, you must also download [dual], and put the contents of it
 directory.
 
 git users might want to run `git clone https://github.com/lydell/spacefn-win.git` (to download the
-whole project), followed by `git submodule update` and `git submodule update` (to download dual).
+whole project), followed by `git submodule init` and `git submodule update` (to download dual).
 
 
 Command-line options
